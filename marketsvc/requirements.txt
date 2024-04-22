@@ -1,0 +1,4 @@
+flask[async]
+asyncpg
+sqlalchemy
+ruff
